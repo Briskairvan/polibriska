@@ -1,0 +1,11 @@
+codingan rizal
+- download file masuk ke vsc
+- ⁠buka folder
+- ⁠copy .env.example hasil copynya ganti namanya jadi .env
+- ⁠ubah nama db_database=db_poli
+- ⁠buka terminal
+- ⁠ketik “composer install”
+- ⁠php artisan key:gen
+- ⁠php artisan migrate
+- ⁠php artisan db:seed
+- ⁠php artisan serve
